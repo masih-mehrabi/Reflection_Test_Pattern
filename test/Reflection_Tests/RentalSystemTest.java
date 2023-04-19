@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package Reflection_Tests;
 
 import org.junit.jupiter.api.Test;
 
